@@ -4,4 +4,6 @@
 
 Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
 
+<img src="https://www.codewars.com/users/collinferry/badges/small">
+
 View my Codewars user profile and all kata instructions from the completed challenges here: https://www.codewars.com/users/collinferry
